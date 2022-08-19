@@ -1,0 +1,9 @@
+config:
+  swagger.base.path: ${swagger_base_path:/}
+  app:
+    scope: scope
+    scopeDescription: description
+  oauth2:
+    accessTokenUri: example/oauth2/token
+
+
